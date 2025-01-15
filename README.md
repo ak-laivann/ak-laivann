@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak-laivann
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React, Git
+- 🌱 I’m currently learning React, Git, Typescript, Javascript, Kotlin, Java, Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... dont reach me please !! I hate attention... ;-)
 
